@@ -2,9 +2,9 @@
 
 This is the README file for Homework 1, Task 2.
 
-![Alt text](screenshots/ssconfirmation.png)
+![Alt text](HW1_iuk202/screenshots/ssconfirmation.png)
 
-![Alt text](screenshots/ssbash.png)
+![Alt text](HW1_iuk202/screenshots/ssbash.png)
 
 This is me editing this file on my local machine and then pushing the changes to my online repository. Let's hope this works!
 
