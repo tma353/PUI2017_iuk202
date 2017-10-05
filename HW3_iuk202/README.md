@@ -1,7 +1,7 @@
-# HW2_iuk202
+# HW3_iuk202
 
-This is the README file for Homework 2, Tasks 1, 2, and 3.
+This is the README file for Homework 3, Tasks 1, 2, and 3.
 
-For Tasks 1 and 2, I worked with Davey, Valeria, and Tarek. They helped guide me through python syntax and coding.
+For Task 1, I worked with Davey, Valeria, and Matt (whose code I copied). After doing some reading on the various distribution types, I was able to move towards understanding the code behind it all.
 
-For Task 3, I worked with Davey, who helped guide me through python syntax and coding. I also worked with Srikanth, Valeria, and Tarek, who all helped me troubleshoot some minor issues.
+For Tasks 2 and 3, I worked with Davey, Tarek, and Srikanth (whose code I copied). I was quite confused on these two parts, but was able to get through it with Srikanth's help.
