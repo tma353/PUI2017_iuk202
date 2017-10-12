@@ -27,5 +27,4 @@ Multiple Regression	| 3, Park Quality, Quantity, Accessibility | continuous, con
 Logistic Regression	| 5, flouroscence markers | Categorical | 1, Leukemia exists or no| categorical | 2, cell size, side scatter | continuous  | 	AUC values of the test group are not different from the AUC values of the control group | AUC of test group = AUC of control group | 0.05 | Leukemia Prediction Using Sparse Logistic Regression](https://doi.org/10.1371/journal.pone.0072932) |
   |||||||||
 
-I was not able to even start Task 3.
-For Task 4, I worked with Davey, but I was not able to complete it.
+For Tasks 3 and 4, I simply copied Srikanth's work with his permission as I did not have a chance to look deeply into these assignments.
